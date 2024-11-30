@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\Source.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\Source.cpp(2356,8): warning C4273: 'log2': inconsistent dll linkage
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(522,47):
+      see previous definition of 'log2'
+  
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\Source.cpp(2705,26): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\Source.cpp(2749,28): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\Source.cpp(2906,29): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Probabilties.cpp
+  Generating Code...
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\Source.cpp(2392,1): warning C4715: 'Second_Guess': not all control paths return a value
+     Creating library C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\x64\Debug\Wordle_Bot_Iteration_6.lib and object C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\x64\Debug\Wordle_Bot_Iteration_6.exp
+  Wordle_Bot_Iteration_6.vcxproj -> C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_6\x64\Debug\Wordle_Bot_Iteration_6.exe
