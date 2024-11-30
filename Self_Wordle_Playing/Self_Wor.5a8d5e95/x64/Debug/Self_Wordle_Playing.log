@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Self_Wordle_Playing\FileName.cpp(146,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Self_Wordle_Playing.vcxproj -> C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Self_Wordle_Playing\x64\Debug\Self_Wordle_Playing.exe
