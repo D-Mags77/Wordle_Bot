@@ -1,0 +1,1 @@
+Takes the expected information for each of the 2309 words. It takes the first word, compares it to all the other words, adds up all of the probabilities multiplied by log base 2 of 1 / probability. It adds all of this up, then we get a value for the expected information each guess will give us. 
