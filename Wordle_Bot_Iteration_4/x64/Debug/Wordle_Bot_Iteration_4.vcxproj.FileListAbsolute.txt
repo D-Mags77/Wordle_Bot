@@ -1,0 +1,3 @@
+C:\Users\dylan\source\repos\Wordle_Bot_Iteration_4\x64\Debug\Wordle_Bot_Iteration_4.exe
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Temporary\Wordle_Bot_Iteration_4\x64\Debug\Wordle_Bot_Iteration_4.exe
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Bot_Iteration_4\x64\Debug\Wordle_Bot_Iteration_4.exe
