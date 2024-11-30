@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Temporary\Worlde_Probability_Iteration_1\Source.cpp(26,8): warning C4273: 'log2': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(522,47): message : see previous definition of 'log2'
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Temporary\Worlde_Probability_Iteration_1\Source.cpp(91,26): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Temporary\Worlde_Probability_Iteration_1\Source.cpp(138,28): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  Worlde_Probability_Iteration_1.vcxproj -> C:\Users\dylan\OneDrive\Desktop\Wordle Bot Temporary\Worlde_Probability_Iteration_1\x64\Debug\Worlde_Probability_Iteration_1.exe
