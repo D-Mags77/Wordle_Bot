@@ -1,0 +1,3 @@
+C:\Users\dylan\source\repos\Wordle_Probabilitiy_Iteration_3\x64\Debug\Wordle_Probabilitiy_Iteration_3.exe
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Temporary\Wordle_Probabilitiy_Iteration_3\x64\Debug\Wordle_Probabilitiy_Iteration_3.exe
+C:\Users\dylan\OneDrive\Desktop\Wordle Bot Archive\Wordle_Probabilitiy_Iteration_3\x64\Debug\Wordle_Probabilitiy_Iteration_3.exe
